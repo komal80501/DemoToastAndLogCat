@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoToastAndLogCat</string>
+    <string name="btnshowText">Show Toast</string>
+</resources>
